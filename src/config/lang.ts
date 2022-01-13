@@ -11,6 +11,7 @@ import it from "locales/it.json"
 import pl from "locales/pl.json"
 import ru from "locales/ru.json"
 import zh from "locales/zh.json"
+import th from "locales/th.json"
 
 const flatten = (obj: object, initial = {}): Dictionary<string> => {
   return Object.entries(obj).reduce((prev, [key, value]) => {
@@ -30,6 +31,7 @@ export const Languages = {
   pl: { value: "pl", label: "Polish", translation: flatten(pl) },
   ru: { value: "ru", label: "Русский", translation: flatten(ru) },
   zh: { value: "zh", label: "中文", translation: flatten(zh) },
+  th: { value: "th", label: "ไทย", translation: flatten(th) },
 }
 
 i18n.use(LanguageDetector).use(initReactI18next).init({

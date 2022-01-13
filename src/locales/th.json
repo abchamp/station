@@ -1,0 +1,217 @@
+{
+  "Blockchain": {
+    "Mnemonic": "Mnemonic",
+    "Address": "Address",
+    "Wallet": "กระเป๋าเงิน",
+    "Wallets": "กระเป๋าเงินทั้งหมด",
+    "Coins": "Coins",
+    "Tokens": "โทเค็น",
+    "Balance": "บัญชี",
+    "Tx hash": "Tx hash",
+    "Gas": "Gas",
+    "Tax": "Tax",
+    "Fee": "Fee",
+    "Memo": "Memo",
+    "decimals": "decimals",
+    "Buy": "ซื้อ",
+    "Exchanges": "แลกเปลี่ยน",
+    "Fiat": "Fiat",
+    "APY": "APY"
+  },
+  "Form": {
+    "Amount": "จำนวน",
+    "Recipient": "Recipient",
+    "Name": "ชื่อ",
+    "optional": "เพิ่มเติม",
+    "Submit": "ส่ง",
+    "Confirm": "ตกลง",
+    "Reset": "เริ่มต้นใหม่"
+  },
+  "Validate": {
+    "{{label}} is required": "{{label}} is required",
+    "{{label}} is not defined": "{{label}} is not defined",
+    "{{label}} is not available": "{{label}} is not available",
+    "{{label}} is not supported": "{{label}} not supported",
+    "{{label}} is invalid": "{{label}} is invalid",
+    "{{label}} already exists": "{{label}} already exists",
+    "{{label}} does not exist": "{{label}} does not exist",
+    "{{label}} must be longer than {{length}} characters": "{{label}} must be longer than {{length}} characters",
+    "Already exists": "Already exists",
+    "Invalid": "Invalid",
+    "Invalid {{label}}": "{{label}} Invalid"
+  },
+  "Loading": {
+    "Initializing app...": "เริ่มต้นการใช้งาน...",
+    "Loading...": "กำลังดึงข้อมูล...",
+    "Load more": "แสดงผลเยอะๆๆ",
+    "Loading more...": "กำลังดึงข้อมูลเยอะๆๆ",
+    "Nothing more to load": "ไม่มีอะไรให้ดึงแล้ว",
+    "Simulating...": "กำลังจำลอง...",
+    "Broadcasting a tx...": "Broadcasting a tx...",
+    "Broadcasting transaction": "Broadcasting transaction",
+    "Queued": "Queued"
+  },
+  "Success": {
+    "Success!": "สำเร็จ"
+  },
+  "Failure": {
+    "Failed": "ผิดพลาด",
+    "Simulation failed": "การจำลองผิดพลาด",
+    "User denied": "ผู้ใช้ยกเลิก",
+    "Failed to create tx": "สร้าง tx ผิดพลาด",
+    "Tx failed": "Tx ผิดพลาด"
+  },
+  "Application": {
+    "Go back": "ย้อนกลับ",
+    "View": "ดู",
+    "Show all": "แสดงทั้งหมด",
+    "Copy": "คัดลอก",
+    "Copied": "ถูกคัดลอกแล้ว",
+    "Active": "Active",
+    "Inactive": "Inactive",
+    "Not found": "ไม่พบ"
+  },
+  "Units": {
+    "year": "ปี",
+    "day": "วัน",
+    "{{d}} days": "{{d}} วัน"
+  },
+  "Preferences": {
+    "Language": "ภาษา",
+    "Currency": "ค่าเงิน"
+  },
+  "Auth": {
+    "Connect": "เชื่อมต่อ",
+    "Disconnect": "หยุดการเชื่อมต่อ",
+    "New wallet": "สร้างกระเป๋าใหม่",
+    "Recover wallet": "Recover wallet",
+    "Connect wallet": "เชื่อมต่อกระเป๋า",
+    "Password": "รหัสผ่าน",
+    "Confirm password": "ยืนยันรหัสผ่าน",
+    "Password does not match": "รหัสผ่านไม่ตรงกัน",
+    "Change password": "เปลี่ยนรหัสผ่าน",
+    "Current password": "รหัสผ่านปัจจุบัน",
+    "New password": "รหัสผ่านใหม่",
+    "Confirm new password": "ยืนยันรหัสผ่านใหม่",
+    "Incorrect password": "รหัสผ่านไม่ถูกต้อง",
+    "Export wallet": "นำออกกระเป๋า",
+    "Delete wallet": "ลบกระเป๋า",
+    "Install extension": "ติดตั้งส่วนเสริม"
+  },
+  "Menu": {
+    "Dashboard": "Dashboard",
+    "Wallet": "กระเป๋า",
+    "NFT": "NFT",
+    "History": "ประวัติ",
+    "Stake": "Stake",
+    "Governance": "ลงคะแนน",
+    "Contract": "รายชื่อ"
+  },
+  "Dashboard": {
+    "Luna price": "ราคา Luna",
+    "Tax rate": "Tax rate",
+    "Issuance": "Issuance",
+    "Community pool": "กองกลาง",
+    "Staking ratio": "Staking ratio"
+  },
+  "Chart": {
+    "Transaction volume": "Transaction volume",
+    "Staking return": "Staking return",
+    "Tax rewards": "Tax rewards",
+    "Wallets": "Wallets"
+  },
+  "Wallet": {
+    "Add tokens": "เพิ่มโทเค็น",
+    "Manage list": "Manage list"
+  },
+  "Txs": {
+    "Send": "ส่ง",
+    "Swap": "แลก",
+    "Stake": "Stake",
+    "Delegate": "Delegate",
+    "Redelegate": "Redelegate",
+    "Undelegate": "Undelegate",
+    "Withdraw rewards": "รับผลตอบแทน",
+    "Withdraw commission": "Withdraw commission",
+    "New proposal": "ตั้งข้อเสนอ",
+    "Deposit": "ฝาก",
+    "Vote": "เลือกตั้ง",
+    "Transfer NFT": "Transfer NFT",
+    "Earn": "Gain"
+  },
+  "Swap": {
+    "From": "จาก",
+    "To": "ถึง",
+    "Spread": "Spread",
+    "Slippage tolerance": "Slippage tolerance",
+    "Oracle price": "Oracle price",
+    "Pair price": "Pair price",
+    "Expected price": "Expected price",
+    "Minimum received": "Minimum received",
+    "Trading fee": "Trading fee"
+  },
+  "Stake": {
+    "Delegations": "Delegations",
+    "Undelegations": "Undelegations",
+    "Delegated": "Delegated",
+    "Undelegated": "Undelegated",
+    "Staking rewards": "Staking rewards"
+  },
+  "Validator": {
+    "Validators": "Validators",
+    "Voting power": "Voting power",
+    "Self delegation": "Self delegation",
+    "Commission": "Commission",
+    "Uptime": "Uptime",
+    "Validator details": "Validator details",
+    "Operator address": "Operator address",
+    "Account address": "Account address",
+    "Jailed": "Jailed"
+  },
+  "Governance": {
+    "Voting": "กำลังดำเนินการ",
+    "Votes": "Votes",
+    "Initial deposit": "Initial deposit",
+    "Deposited": "Deposited",
+    "Depositors": "Depositors",
+    "Depositor": "Depositor",
+    "Deposit end time": "Deposit end time",
+    "Passed": "ผ่าน",
+    "Rejected": "ไม่ผ่าน",
+    "Minimum deposit": "ฝากขั้นต่ำ",
+    "Maximum deposit period": "ระยะเวลาที่ถอนได้",
+    "Voting period": "ระยะเวลาที่ดำเนินการ",
+    "Proposal": "Proposal",
+    "Proposal details": "Proposal details",
+    "Proposal type": "Proposal type",
+    "Title": "Title",
+    "Description": "Description",
+    "Changes": "Changes",
+    "Yes": "Yes",
+    "No": "No",
+    "No with veto": "No with veto",
+    "Abstain": "Abstain",
+    "Tallying procedure": "Tallying procedure",
+    "Quorum": "Quorum",
+    "Pass threshold": "Pass threshold",
+    "Veto threshold": "Veto threshold"
+  },
+  "Contract": {
+    "Upload": "Upload",
+    "Instantiate": "Instantiate",
+    "Query": "Query",
+    "Execute": "Execute",
+    "Upload a wasm file": "Upload a wasm file",
+    "File": "File",
+    "Size": "Size",
+    "Instantiate a code": "Instantiate a code"
+  },
+  "NFT": {
+    "Marketplace": "",
+    "Collection": "Collection"
+  },
+  "Address book": {
+    "Address book": "LAddress book",
+    "Add a new address": "Add a new address"
+  }
+}
